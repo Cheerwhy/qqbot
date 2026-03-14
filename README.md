@@ -354,7 +354,7 @@ STT supports two-level configuration with priority fallback:
 > For installations via `openclaw plugins install`
 
 ```bash
-openclaw plugins upgrade @sliverp/qqbot@latest
+openclaw plugins update qqbot
 ```
 
 ### Via npx
